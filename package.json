@@ -4,13 +4,13 @@
   "private": true,
   "dependencies": {
     "d3-dsv": "1.0.7",
-    "json2csv": "^3.11.5",
+    "json2csv": "^4.3.5",
     "material-design-icons-svg": "1.1.2",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "1.0.13",
-    "semiotic": "1.4.1",
+    "react-scripts": "5.0.0",
+    "semiotic": "2.0.0",
     "semiotic-mark": "0.1.0"
   },
   "scripts": {
